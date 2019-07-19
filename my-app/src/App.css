@@ -1,0 +1,29 @@
+
+.container-fluid{
+  background-color: #fafafa;
+  height: 100%;
+}
+
+.App{
+  height: 100%;
+}
+
+html , body {
+  min-height: 100%;
+}
+
+.listGuest{
+  display: flex;
+}
+
+.detailGuest{
+  border-style: solid;
+}
+.footer{
+  text-align: center;
+}
+
+.login{
+  padding-left: 40%
+}
+

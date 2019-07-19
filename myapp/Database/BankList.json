@@ -1,0 +1,498 @@
+[
+    {
+        "BankName": "ABBANK,ABBANK",
+        "Name": "ABBANK"
+    },
+    {
+        "BankName": "ACB,ACB",
+        "Name": "ACB"
+    },
+    {
+        "BankName": "AGRIBANK,AGRIBANK",
+        "Name": "AGRIBANK"
+    },
+    {
+        "BankName": "AGRIBANKOFCHINA,AGRIBANKOFCHINA",
+        "Name": "AGRIBANKOFCHINA"
+    },
+    {
+        "BankName": "ANZ,ANZ",
+        "Name": "ANZ"
+    },
+    {
+        "BankName": "BACABANK,BACABANK",
+        "Name": "BACABANK"
+    },
+    {
+        "BankName": "BANGKOKBANK,BANGKOKBANK",
+        "Name": "BANGKOKBANK"
+    },
+    {
+        "BankName": "BANKOFCHINA,BANKOFCHINA",
+        "Name": "BANKOFCHINA"
+    },
+    {
+        "BankName": "BANKOFCOMU,BANKOFCOMU",
+        "Name": "BANKOFCOMU"
+    },
+    {
+        "BankName": "BANKOFINDIA,BANKOFINDIA",
+        "Name": "BANKOFINDIA"
+    },
+    {
+        "BankName": "BANVIET,BANVIET",
+        "Name": "BANVIET"
+    },
+    {
+        "BankName": "BAOVIET,BAOVIET",
+        "Name": "BAOVIET"
+    },
+    {
+        "BankName": "BAOVIETBANK,BAOVIETBANK",
+        "Name": "BAOVIETBANK"
+    },
+    {
+        "BankName": "BIDC,BIDC",
+        "Name": "BIDC"
+    },
+    {
+        "BankName": "BIDCHCM,BIDCHCM",
+        "Name": "BIDCHCM"
+    },
+    {
+        "BankName": "BIDCHN,BIDCHN",
+        "Name": "BIDCHN"
+    },
+    {
+        "BankName": "BIDV,BIDV",
+        "Name": "BIDV"
+    },
+    {
+        "BankName": "BNPPARIBASHCM,BNPPARIBASHCM",
+        "Name": "BNPPARIBASHCM"
+    },
+    {
+        "BankName": "BNPPARIBASHN,BNPPARIBASHN",
+        "Name": "BNPPARIBASHN"
+    },
+    {
+        "BankName": "BTMUHCM,BTMUHCM",
+        "Name": "BTMUHCM"
+    },
+    {
+        "BankName": "BTMUHN,BTMUHN",
+        "Name": "BTMUHN"
+    },
+    {
+        "BankName": "CB,CB",
+        "Name": "CB"
+    },
+    {
+        "BankName": "CBBANK,CBBANK",
+        "Name": "CBBANK"
+    },
+    {
+        "BankName": "CHINACONSBANK,CHINACONSBANK",
+        "Name": "CHINACONSBANK"
+    },
+    {
+        "BankName": "CIMB,CIMB",
+        "Name": "CIMB"
+    },
+    {
+        "BankName": "CITIBANK,CITIBANK",
+        "Name": "CITIBANK"
+    },
+    {
+        "BankName": "CITIBANKHCM,CITIBANKHCM",
+        "Name": "CITIBANKHCM"
+    },
+    {
+        "BankName": "CITIBANKHN,CITIBANKHN",
+        "Name": "CITIBANKHN"
+    },
+    {
+        "BankName": "CNHANQUOC,CNHANQUOC",
+        "Name": "CNHANQUOC"
+    },
+    {
+        "BankName": "CO_OPBANK,CO_OPBANK",
+        "Name": "CO_OPBANK"
+    },
+    {
+        "BankName": "CTS,CTS",
+        "Name": "CTS"
+    },
+    {
+        "BankName": "DBSBANKLTD,DBSBANKLTD",
+        "Name": "DBSBANKLTD"
+    },
+    {
+        "BankName": "DEUTSCHEBANK,DEUTSCHEBANK",
+        "Name": "DEUTSCHEBANK"
+    },
+    {
+        "BankName": "DONGA,DONGA",
+        "Name": "DONGA"
+    },
+    {
+        "BankName": "DONGABANK,DONGABANK",
+        "Name": "DONGABANK"
+    },
+    {
+        "BankName": "EXIMBANK,EXIMBANK",
+        "Name": "EXIMBANK"
+    },
+    {
+        "BankName": "FIRSTCOMBANKHCM,FIRSTCOMBANKHCM",
+        "Name": "FIRSTCOMBANKHCM"
+    },
+    {
+        "BankName": "FIRSTCOMBANKHN,FIRSTCOMBANKHN",
+        "Name": "FIRSTCOMBANKHN"
+    },
+    {
+        "BankName": "GPBANK,GPBANK",
+        "Name": "GPBANK"
+    },
+    {
+        "BankName": "HABUBANK,HABUBANK",
+        "Name": "HABUBANK"
+    },
+    {
+        "BankName": "HDBANK,HDBANK",
+        "Name": "HDBANK"
+    },
+    {
+        "BankName": "HONGLEONG,HONGLEONG",
+        "Name": "HONGLEONG"
+    },
+    {
+        "BankName": "HSBC,HSBC",
+        "Name": "HSBC"
+    },
+    {
+        "BankName": "HUANANCOMBANK,HUANANCOMBANK",
+        "Name": "HUANANCOMBANK"
+    },
+    {
+        "BankName": "ICBOFCHINA,ICBOFCHINA",
+        "Name": "ICBOFCHINA"
+    },
+    {
+        "BankName": "INDOVINA,INDOVINA",
+        "Name": "INDOVINA"
+    },
+    {
+        "BankName": "INDOVINABANK,INDOVINABANK",
+        "Name": "INDOVINABANK"
+    },
+    {
+        "BankName": "INDUBANKOFKOREA,INDUBANKOFKOREA",
+        "Name": "INDUBANKOFKOREA"
+    },
+    {
+        "BankName": "JPMORGANCHASE,JPMORGANCHASE",
+        "Name": "JPMORGANCHASE"
+    },
+    {
+        "BankName": "KEBHANAHCM,KEBHANAHCM",
+        "Name": "KEBHANAHCM"
+    },
+    {
+        "BankName": "KEBHANAHN,KEBHANAHN",
+        "Name": "KEBHANAHN"
+    },
+    {
+        "BankName": "KIENLONG,KIENLONG",
+        "Name": "KIENLONG"
+    },
+    {
+        "BankName": "KOOKMINBANK,KOOKMINBANK",
+        "Name": "KOOKMINBANK"
+    },
+    {
+        "BankName": "LIENVIET,LIENVIET",
+        "Name": "LIENVIET"
+    },
+    {
+        "BankName": "LIENVIETBANK,LIENVIETBANK",
+        "Name": "LIENVIETBANK"
+    },
+    {
+        "BankName": "LOCAL,LOCAL",
+        "Name": "LOCAL"
+    },
+    {
+        "BankName": "MALAYANKBERHAD,MALAYANKBERHAD",
+        "Name": "MALAYANKBERHAD"
+    },
+    {
+        "BankName": "MARITIMEBANK,MARITIMEBANK",
+        "Name": "MARITIMEBANK"
+    },
+    {
+        "BankName": "MAYBANK,MAYBANK",
+        "Name": "MAYBANK"
+    },
+    {
+        "BankName": "MBBANK,MBBANK",
+        "Name": "MBBANK"
+    },
+    {
+        "BankName": "MEGAICBC,MEGAICBC",
+        "Name": "MEGAICBC"
+    },
+    {
+        "BankName": "MHB,MHB",
+        "Name": "MHB"
+    },
+    {
+        "BankName": "MIZUHOBANKHCM,MIZUHOBANKHCM",
+        "Name": "MIZUHOBANKHCM"
+    },
+    {
+        "BankName": "MIZUHOBANKHN,MIZUHOBANKHN",
+        "Name": "MIZUHOBANKHN"
+    },
+    {
+        "BankName": "MSB,MSB",
+        "Name": "MSB"
+    },
+    {
+        "BankName": "MUFGBANKHCM,MUFGBANKHCM",
+        "Name": "MUFGBANKHCM"
+    },
+    {
+        "BankName": "MUFGBANKHN,MUFGBANKHN",
+        "Name": "MUFGBANKHN"
+    },
+    {
+        "BankName": "NAMABANK,NAMABANK",
+        "Name": "NAMABANK"
+    },
+    {
+        "BankName": "NAMPHUONG,NAMPHUONG",
+        "Name": "NAMPHUONG"
+    },
+    {
+        "BankName": "NAPAS,NAPAS",
+        "Name": "NAPAS"
+    },
+    {
+        "BankName": "NCB,NCB",
+        "Name": "NCB"
+    },
+    {
+        "BankName": "NGANHANGBUSAN,NGANHANGBUSAN",
+        "Name": "NGANHANGBUSAN"
+    },
+    {
+        "BankName": "NGANHANGCTBC,NGANHANGCTBC",
+        "Name": "NGANHANGCTBC"
+    },
+    {
+        "BankName": "NHBPCEIOM,NHBPCEIOM",
+        "Name": "NHBPCEIOM"
+    },
+    {
+        "BankName": "NHCSXH,NHCSXH",
+        "Name": "NHCSXH"
+    },
+    {
+        "BankName": "NHTNHHE.SUN,NHTNHHE.SUN",
+        "Name": "NHTNHHE.SUN"
+    },
+    {
+        "BankName": "NHTNHHMTVW00RI,NHTNHHMTVW00RI",
+        "Name": "NHTNHHMTVW00RI"
+    },
+    {
+        "BankName": "NONGHYUP,NONGHYUP",
+        "Name": "NONGHYUP"
+    },
+    {
+        "BankName": "OCB,OCB",
+        "Name": "OCB"
+    },
+    {
+        "BankName": "OCEANBANK,OCEANBANK",
+        "Name": "OCEANBANK"
+    },
+    {
+        "BankName": "OVERSEA-CHINESE,OVERSEA-CHINESE",
+        "Name": "OVERSEA-CHINESE"
+    },
+    {
+        "BankName": "PGBANK,PGBANK",
+        "Name": "PGBANK"
+    },
+    {
+        "BankName": "PHUONGDONG,PHUONGDONG",
+        "Name": "PHUONGDONG"
+    },
+    {
+        "BankName": "PHUONGNAM,PHUONGNAM",
+        "Name": "PHUONGNAM"
+    },
+    {
+        "BankName": "PUBLICBANK,PUBLICBANK",
+        "Name": "PUBLICBANK"
+    },
+    {
+        "BankName": "PVCOMBANK,PVCOMBANK",
+        "Name": "PVCOMBANK"
+    },
+    {
+        "BankName": "QUOC TE,QUOC TE",
+        "Name": "QUOC TE"
+    },
+    {
+        "BankName": "QUOCDAN,QUOCDAN",
+        "Name": "QUOCDAN"
+    },
+    {
+        "BankName": "SACOMBANK,SACOMBANK",
+        "Name": "SACOMBANK"
+    },
+    {
+        "BankName": "SAIGONBANK,SAIGONBANK",
+        "Name": "SAIGONBANK"
+    },
+    {
+        "BankName": "SCB,SCB",
+        "Name": "SCB"
+    },
+    {
+        "BankName": "SEABANK,SEABANK",
+        "Name": "SEABANK"
+    },
+    {
+        "BankName": "SHANGHAICOMBANK,SHANGHAICOMBANK",
+        "Name": "SHANGHAICOMBANK"
+    },
+    {
+        "BankName": "SHB,SHB",
+        "Name": "SHB"
+    },
+    {
+        "BankName": "SHINHANBANK,SHINHANBANK",
+        "Name": "SHINHANBANK"
+    },
+    {
+        "BankName": "SHINHANVIETNAM,SHINHANVIETNAM",
+        "Name": "SHINHANVIETNAM"
+    },
+    {
+        "BankName": "SIAMCOMBANK,SIAMCOMBANK",
+        "Name": "SIAMCOMBANK"
+    },
+    {
+        "BankName": "SINOPAC,SINOPAC",
+        "Name": "SINOPAC"
+    },
+    {
+        "BankName": "STANDARD,STANDARD",
+        "Name": "STANDARD"
+    },
+    {
+        "BankName": "SUMIMITSUIBANK,SUMIMITSUIBANK",
+        "Name": "SUMIMITSUIBANK"
+    },
+    {
+        "BankName": "TAIPEIFUBONBD,TAIPEIFUBONBD",
+        "Name": "TAIPEIFUBONBD"
+    },
+    {
+        "BankName": "TAIPEIFUBONHCM,TAIPEIFUBONHCM",
+        "Name": "TAIPEIFUBONHCM"
+    },
+    {
+        "BankName": "TAIPEIFUBONHN,TAIPEIFUBONHN",
+        "Name": "TAIPEIFUBONHN"
+    },
+    {
+        "BankName": "TECHCOMBANK,TECHCOMBANK",
+        "Name": "TECHCOMBANK"
+    },
+    {
+        "BankName": "TIENPHONG,TIENPHONG",
+        "Name": "TIENPHONG"
+    },
+    {
+        "BankName": "TPBANK,TPBANK",
+        "Name": "TPBANK"
+    },
+    {
+        "BankName": "UOB,UOB",
+        "Name": "UOB"
+    },
+    {
+        "BankName": "VBSP,VBSP",
+        "Name": "VBSP"
+    },
+    {
+        "BankName": "VCB,VCB",
+        "Name": "VCB"
+    },
+    {
+        "BankName": "VDB,VDB",
+        "Name": "VDB"
+    },
+    {
+        "BankName": "VIB,VIB",
+        "Name": "VIB"
+    },
+    {
+        "BankName": "VIETA,VIETA",
+        "Name": "VIETA"
+    },
+    {
+        "BankName": "VIETABANK,VIETABANK",
+        "Name": "VIETABANK"
+    },
+    {
+        "BankName": "VIETBANK,VIETBANK",
+        "Name": "VIETBANK"
+    },
+    {
+        "BankName": "VIETCAPITAL,VIETCAPITAL",
+        "Name": "VIETCAPITAL"
+    },
+    {
+        "BankName": "VIETCAPITALBANK,VIETCAPITALBANK",
+        "Name": "VIETCAPITALBANK"
+    },
+    {
+        "BankName": "VIETCOMBANK,VIETCOMBANK",
+        "Name": "VIETCOMBANK"
+    },
+    {
+        "BankName": "VIETINBANK,VIETINBANK",
+        "Name": "VIETINBANK"
+    },
+    {
+        "BankName": "VIETINBANKLAO,VIETINBANKLAO",
+        "Name": "VIETINBANKLAO"
+    },
+    {
+        "BankName": "VINASIAMBANK,VINASIAMBANK",
+        "Name": "VINASIAMBANK"
+    },
+    {
+        "BankName": "VPBANK,VPBANK",
+        "Name": "VPBANK"
+    },
+    {
+        "BankName": "VRB,VRB",
+        "Name": "VRB"
+    },
+    {
+        "BankName": "VTB,VTB",
+        "Name": "VTB"
+    },
+    {
+        "BankName": "WOORI,WOORI",
+        "Name": "WOORI"
+    }
+]

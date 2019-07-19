@@ -1,0 +1,1327 @@
+[
+    {
+        "IssuedBy": "260,AUSTRALIA",
+        "id": "260",
+        "Name": "AUSTRALIA"
+    },
+    {
+        "IssuedBy": "57,An Giang",
+        "id": "57",
+        "Name": "An Giang"
+    },
+    {
+        "IssuedBy": "83,BERN",
+        "id": "83",
+        "Name": "BERN"
+    },
+    {
+        "IssuedBy": "236,Berlin",
+        "id": "236",
+        "Name": "Berlin"
+    },
+    {
+        "IssuedBy": "84,Binh Chủng Công Binh",
+        "id": "84",
+        "Name": "Binh Chủng Công Binh"
+    },
+    {
+        "IssuedBy": "85,Binh chủng TTLL",
+        "id": "85",
+        "Name": "Binh chủng TTLL"
+    },
+    {
+        "IssuedBy": "86,Binh chủng Đặc Công",
+        "id": "86",
+        "Name": "Binh chủng Đặc Công"
+    },
+    {
+        "IssuedBy": "87,Binh Đoàn 12",
+        "id": "87",
+        "Name": "Binh Đoàn 12"
+    },
+    {
+        "IssuedBy": "88,Binh Đoàn 16",
+        "id": "88",
+        "Name": "Binh Đoàn 16"
+    },
+    {
+        "IssuedBy": "48,Bà Rịa Vũng Tàu",
+        "id": "48",
+        "Name": "Bà Rịa Vũng Tàu"
+    },
+    {
+        "IssuedBy": "89,Bình  Phước",
+        "id": "89",
+        "Name": "Bình  Phước"
+    },
+    {
+        "IssuedBy": "72,Bình Chánh",
+        "id": "72",
+        "Name": "Bình Chánh"
+    },
+    {
+        "IssuedBy": "51,Bình Dương",
+        "id": "51",
+        "Name": "Bình Dương"
+    },
+    {
+        "IssuedBy": "52,Bình Phước",
+        "id": "52",
+        "Name": "Bình Phước"
+    },
+    {
+        "IssuedBy": "49,Bình Thuận",
+        "id": "49",
+        "Name": "Bình Thuận"
+    },
+    {
+        "IssuedBy": "90,Bình Trị Thiên",
+        "id": "90",
+        "Name": "Bình Trị Thiên"
+    },
+    {
+        "IssuedBy": "39,Bình Định",
+        "id": "39",
+        "Name": "Bình Định"
+    },
+    {
+        "IssuedBy": "65,Bạc Liêu",
+        "id": "65",
+        "Name": "Bạc Liêu"
+    },
+    {
+        "IssuedBy": "10,Bắc Giang",
+        "id": "10",
+        "Name": "Bắc Giang"
+    },
+    {
+        "IssuedBy": "13,Bắc Kạn",
+        "id": "13",
+        "Name": "Bắc Kạn"
+    },
+    {
+        "IssuedBy": "9,Bắc Ninh",
+        "id": "9",
+        "Name": "Bắc Ninh"
+    },
+    {
+        "IssuedBy": "91,Bắc Thái",
+        "id": "91",
+        "Name": "Bắc Thái"
+    },
+    {
+        "IssuedBy": "62,Bến Tre",
+        "id": "62",
+        "Name": "Bến Tre"
+    },
+    {
+        "IssuedBy": "92,Bệnh Viện Không Quân",
+        "id": "92",
+        "Name": "Bệnh Viện Không Quân"
+    },
+    {
+        "IssuedBy": "261,Bộ Ngoại Giao Thái Lan",
+        "id": "261",
+        "Name": "Bộ Ngoại Giao Thái Lan"
+    },
+    {
+        "IssuedBy": "93,Bộ Quốc Phòng",
+        "id": "93",
+        "Name": "Bộ Quốc Phòng"
+    },
+    {
+        "IssuedBy": "94,Bộ Tài Chính",
+        "id": "94",
+        "Name": "Bộ Tài Chính"
+    },
+    {
+        "IssuedBy": "95,Bộ Tư Lệnh Binh Đoàn 12",
+        "id": "95",
+        "Name": "Bộ Tư Lệnh Binh Đoàn 12"
+    },
+    {
+        "IssuedBy": "96,Bộ Tư Lệnh Biên Phòng",
+        "id": "96",
+        "Name": "Bộ Tư Lệnh Biên Phòng"
+    },
+    {
+        "IssuedBy": "97,Bộ Tư Lệnh BĐBP",
+        "id": "97",
+        "Name": "Bộ Tư Lệnh BĐBP"
+    },
+    {
+        "IssuedBy": "98,Bộ Tư Lệnh Cảnh Vệ",
+        "id": "98",
+        "Name": "Bộ Tư Lệnh Cảnh Vệ"
+    },
+    {
+        "IssuedBy": "99,Bộ Tư Lệnh Hà Nội",
+        "id": "99",
+        "Name": "Bộ Tư Lệnh Hà Nội"
+    },
+    {
+        "IssuedBy": "100,Bộ Tư Lệnh Hải Quân",
+        "id": "100",
+        "Name": "Bộ Tư Lệnh Hải Quân"
+    },
+    {
+        "IssuedBy": "101,Bộ Tư Lệnh Thông Tin",
+        "id": "101",
+        "Name": "Bộ Tư Lệnh Thông Tin"
+    },
+    {
+        "IssuedBy": "102,Bộ Tư Lệnh TĐHN",
+        "id": "102",
+        "Name": "Bộ Tư Lệnh TĐHN"
+    },
+    {
+        "IssuedBy": "103,Bộ Tổng Tham Mưu",
+        "id": "103",
+        "Name": "Bộ Tổng Tham Mưu"
+    },
+    {
+        "IssuedBy": "104,Bộ nông nghiệp và PTNT",
+        "id": "104",
+        "Name": "Bộ nông nghiệp và PTNT"
+    },
+    {
+        "IssuedBy": "73,Bộ Đội Biên Phòng",
+        "id": "73",
+        "Name": "Bộ Đội Biên Phòng"
+    },
+    {
+        "IssuedBy": "237,CA Tp.HCM",
+        "id": "237",
+        "Name": "CA Tp.HCM"
+    },
+    {
+        "IssuedBy": "105,CCS QLHC về TTXH",
+        "id": "105",
+        "Name": "CCS QLHC về TTXH"
+    },
+    {
+        "IssuedBy": "106,CCS ĐKQL CT  &  DLQG về DC",
+        "id": "106",
+        "Name": "CCS ĐKQL CT  &  DLQG về DC"
+    },
+    {
+        "IssuedBy": "107,CCS ĐKQL CT và DLQG về DC",
+        "id": "107",
+        "Name": "CCS ĐKQL CT và DLQG về DC"
+    },
+    {
+        "IssuedBy": "108,CCS ĐKQL CT & DLQG về DC",
+        "id": "108",
+        "Name": "CCS ĐKQL CT & DLQG về DC"
+    },
+    {
+        "IssuedBy": "109,CP84",
+        "id": "109",
+        "Name": "CP84"
+    },
+    {
+        "IssuedBy": "14,Cao Bằng",
+        "id": "14",
+        "Name": "Cao Bằng"
+    },
+    {
+        "IssuedBy": "110,Chính phủ nước CHXHCNVN",
+        "id": "110",
+        "Name": "Chính phủ nước CHXHCNVN"
+    },
+    {
+        "IssuedBy": "66,Cà Mau",
+        "id": "66",
+        "Name": "Cà Mau"
+    },
+    {
+        "IssuedBy": "111,Công đoàn Công nghiệp VN",
+        "id": "111",
+        "Name": "Công đoàn Công nghiệp VN"
+    },
+    {
+        "IssuedBy": "112,Công đoàn NH Việt Nam",
+        "id": "112",
+        "Name": "Công đoàn NH Việt Nam"
+    },
+    {
+        "IssuedBy": "113,CĐ CT Nhựa Việt Nam",
+        "id": "113",
+        "Name": "CĐ CT Nhựa Việt Nam"
+    },
+    {
+        "IssuedBy": "114,CĐ Công Thương Việt Nam",
+        "id": "114",
+        "Name": "CĐ Công Thương Việt Nam"
+    },
+    {
+        "IssuedBy": "115,CĐ TCT Khánh Việt",
+        "id": "115",
+        "Name": "CĐ TCT Khánh Việt"
+    },
+    {
+        "IssuedBy": "116,CĐ TCT Thép Việt Nam",
+        "id": "116",
+        "Name": "CĐ TCT Thép Việt Nam"
+    },
+    {
+        "IssuedBy": "117,CĐ TCT Điện Tử Tin Học VN",
+        "id": "117",
+        "Name": "CĐ TCT Điện Tử Tin Học VN"
+    },
+    {
+        "IssuedBy": "118,CĐ Xăng Dầu Việt Nam",
+        "id": "118",
+        "Name": "CĐ Xăng Dầu Việt Nam"
+    },
+    {
+        "IssuedBy": "242,Cơ quan Lãnh sự tại Hà Nội",
+        "id": "242",
+        "Name": "Cơ quan Lãnh sự tại Hà Nội"
+    },
+    {
+        "IssuedBy": "59,Cần Thơ",
+        "id": "59",
+        "Name": "Cần Thơ"
+    },
+    {
+        "IssuedBy": "119,Cục Chính Trị",
+        "id": "119",
+        "Name": "Cục Chính Trị"
+    },
+    {
+        "IssuedBy": "120,Cục QL XNC",
+        "id": "120",
+        "Name": "Cục QL XNC"
+    },
+    {
+        "IssuedBy": "68,Cục QLXN cảnh",
+        "id": "68",
+        "Name": "Cục QLXN cảnh"
+    },
+    {
+        "IssuedBy": "121,Cục Quân Lực BQP",
+        "id": "121",
+        "Name": "Cục Quân Lực BQP"
+    },
+    {
+        "IssuedBy": "122,Cục Quân Lực BTTM",
+        "id": "122",
+        "Name": "Cục Quân Lực BTTM"
+    },
+    {
+        "IssuedBy": "264,Cục cảnh sát biển Việt Nam",
+        "id": "264",
+        "Name": "Cục cảnh sát biển Việt Nam"
+    },
+    {
+        "IssuedBy": "123,Cửu Long",
+        "id": "123",
+        "Name": "Cửu Long"
+    },
+    {
+        "IssuedBy": "262,FRANKFURT - CH LB ĐỨC",
+        "id": "262",
+        "Name": "FRANKFURT - CH LB ĐỨC"
+    },
+    {
+        "IssuedBy": "40,Gia Lai",
+        "id": "40",
+        "Name": "Gia Lai"
+    },
+    {
+        "IssuedBy": "125,Hoàng Liên Sơn",
+        "id": "125",
+        "Name": "Hoàng Liên Sơn"
+    },
+    {
+        "IssuedBy": "74,Hà Bắc",
+        "id": "74",
+        "Name": "Hà Bắc"
+    },
+    {
+        "IssuedBy": "23,Hà Giang",
+        "id": "23",
+        "Name": "Hà Giang"
+    },
+    {
+        "IssuedBy": "29,Hà Nam",
+        "id": "29",
+        "Name": "Hà Nam"
+    },
+    {
+        "IssuedBy": "75,Hà Nam Ninh",
+        "id": "75",
+        "Name": "Hà Nam Ninh"
+    },
+    {
+        "IssuedBy": "124,Hà Nội",
+        "id": "124",
+        "Name": "Hà Nội"
+    },
+    {
+        "IssuedBy": "4,Hà Nội",
+        "id": "4",
+        "Name": "Hà Nội"
+    },
+    {
+        "IssuedBy": "126,Hà Sơn Bình",
+        "id": "126",
+        "Name": "Hà Sơn Bình"
+    },
+    {
+        "IssuedBy": "20,Hà Tây",
+        "id": "20",
+        "Name": "Hà Tây"
+    },
+    {
+        "IssuedBy": "31,Hà Tĩnh",
+        "id": "31",
+        "Name": "Hà Tĩnh"
+    },
+    {
+        "IssuedBy": "21,Hòa Bình",
+        "id": "21",
+        "Name": "Hòa Bình"
+    },
+    {
+        "IssuedBy": "5,Hưng Yên",
+        "id": "5",
+        "Name": "Hưng Yên"
+    },
+    {
+        "IssuedBy": "6,Hải Dương",
+        "id": "6",
+        "Name": "Hải Dương"
+    },
+    {
+        "IssuedBy": "76,Hải Hưng",
+        "id": "76",
+        "Name": "Hải Hưng"
+    },
+    {
+        "IssuedBy": "7,Hải Phòng",
+        "id": "7",
+        "Name": "Hải Phòng"
+    },
+    {
+        "IssuedBy": "60,Hậu Giang",
+        "id": "60",
+        "Name": "Hậu Giang"
+    },
+    {
+        "IssuedBy": "127,Học Viện Chính Trị",
+        "id": "127",
+        "Name": "Học Viện Chính Trị"
+    },
+    {
+        "IssuedBy": "128,Học Viện Chính Trị Quân Sự",
+        "id": "128",
+        "Name": "Học Viện Chính Trị Quân Sự"
+    },
+    {
+        "IssuedBy": "259,Học Viện Cảnh Sát Nhân Dân",
+        "id": "259",
+        "Name": "Học Viện Cảnh Sát Nhân Dân"
+    },
+    {
+        "IssuedBy": "129,Học Viện Lục Quân",
+        "id": "129",
+        "Name": "Học Viện Lục Quân"
+    },
+    {
+        "IssuedBy": "1,Học Viện Quân Y",
+        "id": "1",
+        "Name": "Học Viện Quân Y"
+    },
+    {
+        "IssuedBy": "130,Học viện KTQS",
+        "id": "130",
+        "Name": "Học viện KTQS"
+    },
+    {
+        "IssuedBy": "77,Hồ Chí Minh",
+        "id": "77",
+        "Name": "Hồ Chí Minh"
+    },
+    {
+        "IssuedBy": "131,Hợp Chủng Quốc Hoa Kỳ Bộ Ngoại Giao",
+        "id": "131",
+        "Name": "Hợp Chủng Quốc Hoa Kỳ Bộ Ngoại Giao"
+    },
+    {
+        "IssuedBy": "238,Japan",
+        "id": "238",
+        "Name": "Japan"
+    },
+    {
+        "IssuedBy": "44,Khánh Hòa",
+        "id": "44",
+        "Name": "Khánh Hòa"
+    },
+    {
+        "IssuedBy": "0,Không xác định",
+        "id": "0",
+        "Name": "Không xác định"
+    },
+    {
+        "IssuedBy": "71,Không xác định",
+        "id": "71",
+        "Name": "Không xác định"
+    },
+    {
+        "IssuedBy": "61,Kiên Giang",
+        "id": "61",
+        "Name": "Kiên Giang"
+    },
+    {
+        "IssuedBy": "38,Kon Tum",
+        "id": "38",
+        "Name": "Kon Tum"
+    },
+    {
+        "IssuedBy": "67,Lai Châu",
+        "id": "67",
+        "Name": "Lai Châu"
+    },
+    {
+        "IssuedBy": "54,Long An",
+        "id": "54",
+        "Name": "Long An"
+    },
+    {
+        "IssuedBy": "19,Lào Cai",
+        "id": "19",
+        "Name": "Lào Cai"
+    },
+    {
+        "IssuedBy": "46,Lâm Đồng",
+        "id": "46",
+        "Name": "Lâm Đồng"
+    },
+    {
+        "IssuedBy": "132,LĐLĐ Lâm Đồng",
+        "id": "132",
+        "Name": "LĐLĐ Lâm Đồng"
+    },
+    {
+        "IssuedBy": "133,LĐLĐ Ninh Hòa",
+        "id": "133",
+        "Name": "LĐLĐ Ninh Hòa"
+    },
+    {
+        "IssuedBy": "134,LĐLĐ Đồng Tháp",
+        "id": "134",
+        "Name": "LĐLĐ Đồng Tháp"
+    },
+    {
+        "IssuedBy": "11,Lạng Sơn",
+        "id": "11",
+        "Name": "Lạng Sơn"
+    },
+    {
+        "IssuedBy": "135,Minh Hải",
+        "id": "135",
+        "Name": "Minh Hải"
+    },
+    {
+        "IssuedBy": "136,Moskow",
+        "id": "136",
+        "Name": "Moskow"
+    },
+    {
+        "IssuedBy": "137,NHCT VN",
+        "id": "137",
+        "Name": "NHCT VN"
+    },
+    {
+        "IssuedBy": "138,Nam Hà",
+        "id": "138",
+        "Name": "Nam Hà"
+    },
+    {
+        "IssuedBy": "26,Nam Định",
+        "id": "26",
+        "Name": "Nam Định"
+    },
+    {
+        "IssuedBy": "139,Nghĩa Bình",
+        "id": "139",
+        "Name": "Nghĩa Bình"
+    },
+    {
+        "IssuedBy": "30,Nghệ An",
+        "id": "30",
+        "Name": "Nghệ An"
+    },
+    {
+        "IssuedBy": "140,Nghệ Tĩnh",
+        "id": "140",
+        "Name": "Nghệ Tĩnh"
+    },
+    {
+        "IssuedBy": "141,Ngân Hàng Nhà Nước",
+        "id": "141",
+        "Name": "Ngân Hàng Nhà Nước"
+    },
+    {
+        "IssuedBy": "77,Nha Trang",
+        "id": "77",
+        "Name": "Nha Trang"
+    },
+    {
+        "IssuedBy": "27,Ninh Bình",
+        "id": "27",
+        "Name": "Ninh Bình"
+    },
+    {
+        "IssuedBy": "45,Ninh Thuận",
+        "id": "45",
+        "Name": "Ninh Thuận"
+    },
+    {
+        "IssuedBy": "70,Nước Ngoài",
+        "id": "70",
+        "Name": "Nước Ngoài"
+    },
+    {
+        "IssuedBy": "142,Phú  Thọ",
+        "id": "142",
+        "Name": "Phú  Thọ"
+    },
+    {
+        "IssuedBy": "78,Phú Khánh",
+        "id": "78",
+        "Name": "Phú Khánh"
+    },
+    {
+        "IssuedBy": "16,Phú Thọ",
+        "id": "16",
+        "Name": "Phú Thọ"
+    },
+    {
+        "IssuedBy": "41,Phú Yên",
+        "id": "41",
+        "Name": "Phú Yên"
+    },
+    {
+        "IssuedBy": "143,Phúc Yên",
+        "id": "143",
+        "Name": "Phúc Yên"
+    },
+    {
+        "IssuedBy": "144,Quân Chủng Hải Quân",
+        "id": "144",
+        "Name": "Quân Chủng Hải Quân"
+    },
+    {
+        "IssuedBy": "145,Quân Chủng PKKQ",
+        "id": "145",
+        "Name": "Quân Chủng PKKQ"
+    },
+    {
+        "IssuedBy": "146,Quân Khu 1",
+        "id": "146",
+        "Name": "Quân Khu 1"
+    },
+    {
+        "IssuedBy": "147,Quân Khu 2",
+        "id": "147",
+        "Name": "Quân Khu 2"
+    },
+    {
+        "IssuedBy": "148,Quân Khu 3",
+        "id": "148",
+        "Name": "Quân Khu 3"
+    },
+    {
+        "IssuedBy": "149,Quân Khu 4",
+        "id": "149",
+        "Name": "Quân Khu 4"
+    },
+    {
+        "IssuedBy": "150,Quân Khu 5",
+        "id": "150",
+        "Name": "Quân Khu 5"
+    },
+    {
+        "IssuedBy": "79,Quân Khu 7",
+        "id": "79",
+        "Name": "Quân Khu 7"
+    },
+    {
+        "IssuedBy": "151,Quân Khu 9",
+        "id": "151",
+        "Name": "Quân Khu 9"
+    },
+    {
+        "IssuedBy": "152,Quân Đoàn 3",
+        "id": "152",
+        "Name": "Quân Đoàn 3"
+    },
+    {
+        "IssuedBy": "69,Quân Đội",
+        "id": "69",
+        "Name": "Quân Đội"
+    },
+    {
+        "IssuedBy": "153,Quân đội NDVN",
+        "id": "153",
+        "Name": "Quân đội NDVN"
+    },
+    {
+        "IssuedBy": "32,Quảng Bình",
+        "id": "32",
+        "Name": "Quảng Bình"
+    },
+    {
+        "IssuedBy": "36,Quảng Nam",
+        "id": "36",
+        "Name": "Quảng Nam"
+    },
+    {
+        "IssuedBy": "154,Quảng Nam Đà Nẵng",
+        "id": "154",
+        "Name": "Quảng Nam Đà Nẵng"
+    },
+    {
+        "IssuedBy": "37,Quảng Ngãi",
+        "id": "37",
+        "Name": "Quảng Ngãi"
+    },
+    {
+        "IssuedBy": "8,Quảng Ninh",
+        "id": "8",
+        "Name": "Quảng Ninh"
+    },
+    {
+        "IssuedBy": "33,Quảng Trị",
+        "id": "33",
+        "Name": "Quảng Trị"
+    },
+    {
+        "IssuedBy": "239,Republic of Korea",
+        "id": "239",
+        "Name": "Republic of Korea"
+    },
+    {
+        "IssuedBy": "240,Singapore",
+        "id": "240",
+        "Name": "Singapore"
+    },
+    {
+        "IssuedBy": "155,Sydney",
+        "id": "155",
+        "Name": "Sydney"
+    },
+    {
+        "IssuedBy": "64,Sóc Trăng",
+        "id": "64",
+        "Name": "Sóc Trăng"
+    },
+    {
+        "IssuedBy": "81,Sông Bé",
+        "id": "81",
+        "Name": "Sông Bé"
+    },
+    {
+        "IssuedBy": "22,Sơn La",
+        "id": "22",
+        "Name": "Sơn La"
+    },
+    {
+        "IssuedBy": "156,Sở KH & ĐT An Giang",
+        "id": "156",
+        "Name": "Sở KH & ĐT An Giang"
+    },
+    {
+        "IssuedBy": "157,Sở KH & ĐT Bà Rịa Vũng Tàu",
+        "id": "157",
+        "Name": "Sở KH & ĐT Bà Rịa Vũng Tàu"
+    },
+    {
+        "IssuedBy": "158,Sở KH & ĐT Bình Dương",
+        "id": "158",
+        "Name": "Sở KH & ĐT Bình Dương"
+    },
+    {
+        "IssuedBy": "159,Sở KH & ĐT Bình Phước",
+        "id": "159",
+        "Name": "Sở KH & ĐT Bình Phước"
+    },
+    {
+        "IssuedBy": "160,Sở KH & ĐT Bình Thuận",
+        "id": "160",
+        "Name": "Sở KH & ĐT Bình Thuận"
+    },
+    {
+        "IssuedBy": "161,Sở KH & ĐT Bình Định",
+        "id": "161",
+        "Name": "Sở KH & ĐT Bình Định"
+    },
+    {
+        "IssuedBy": "162,Sở KH & ĐT Bạc Liêu",
+        "id": "162",
+        "Name": "Sở KH & ĐT Bạc Liêu"
+    },
+    {
+        "IssuedBy": "163,Sở KH & ĐT Bắc Giang",
+        "id": "163",
+        "Name": "Sở KH & ĐT Bắc Giang"
+    },
+    {
+        "IssuedBy": "164,Sở KH & ĐT Bắc Ninh",
+        "id": "164",
+        "Name": "Sở KH & ĐT Bắc Ninh"
+    },
+    {
+        "IssuedBy": "165,Sở KH & ĐT Bến Tre",
+        "id": "165",
+        "Name": "Sở KH & ĐT Bến Tre"
+    },
+    {
+        "IssuedBy": "166,Sở KH & ĐT Cao Bằng",
+        "id": "166",
+        "Name": "Sở KH & ĐT Cao Bằng"
+    },
+    {
+        "IssuedBy": "167,Sở KH & ĐT Cà Mau",
+        "id": "167",
+        "Name": "Sở KH & ĐT Cà Mau"
+    },
+    {
+        "IssuedBy": "168,Sở KH & ĐT Cần Thơ",
+        "id": "168",
+        "Name": "Sở KH & ĐT Cần Thơ"
+    },
+    {
+        "IssuedBy": "169,Sở KH & ĐT Gia Lai",
+        "id": "169",
+        "Name": "Sở KH & ĐT Gia Lai"
+    },
+    {
+        "IssuedBy": "258,Sở KH & ĐT Hà Giang",
+        "id": "258",
+        "Name": "Sở KH & ĐT Hà Giang"
+    },
+    {
+        "IssuedBy": "170,Sở KH & ĐT Hà Nam",
+        "id": "170",
+        "Name": "Sở KH & ĐT Hà Nam"
+    },
+    {
+        "IssuedBy": "171,Sở KH & ĐT Hà Nội",
+        "id": "171",
+        "Name": "Sở KH & ĐT Hà Nội"
+    },
+    {
+        "IssuedBy": "254,Sở KH & ĐT Hà Tĩnh",
+        "id": "254",
+        "Name": "Sở KH & ĐT Hà Tĩnh"
+    },
+    {
+        "IssuedBy": "256,Sở KH & ĐT Hòa Bình",
+        "id": "256",
+        "Name": "Sở KH & ĐT Hòa Bình"
+    },
+    {
+        "IssuedBy": "172,Sở KH & ĐT Hưng Yên",
+        "id": "172",
+        "Name": "Sở KH & ĐT Hưng Yên"
+    },
+    {
+        "IssuedBy": "173,Sở KH & ĐT Hải Dương",
+        "id": "173",
+        "Name": "Sở KH & ĐT Hải Dương"
+    },
+    {
+        "IssuedBy": "174,Sở KH & ĐT Hải Phòng",
+        "id": "174",
+        "Name": "Sở KH & ĐT Hải Phòng"
+    },
+    {
+        "IssuedBy": "245,Sở KH & ĐT Hậu Giang",
+        "id": "245",
+        "Name": "Sở KH & ĐT Hậu Giang"
+    },
+    {
+        "IssuedBy": "175,Sở KH & ĐT Khánh Hòa",
+        "id": "175",
+        "Name": "Sở KH & ĐT Khánh Hòa"
+    },
+    {
+        "IssuedBy": "176,Sở KH & ĐT Kiên Giang",
+        "id": "176",
+        "Name": "Sở KH & ĐT Kiên Giang"
+    },
+    {
+        "IssuedBy": "177,Sở KH & ĐT Kon Tum",
+        "id": "177",
+        "Name": "Sở KH & ĐT Kon Tum"
+    },
+    {
+        "IssuedBy": "178,Sở KH & ĐT Long An",
+        "id": "178",
+        "Name": "Sở KH & ĐT Long An"
+    },
+    {
+        "IssuedBy": "253,Sở KH & ĐT Lào Cai",
+        "id": "253",
+        "Name": "Sở KH & ĐT Lào Cai"
+    },
+    {
+        "IssuedBy": "179,Sở KH & ĐT Lâm Đồng",
+        "id": "179",
+        "Name": "Sở KH & ĐT Lâm Đồng"
+    },
+    {
+        "IssuedBy": "252,Sở KH & ĐT Lạng Sơn",
+        "id": "252",
+        "Name": "Sở KH & ĐT Lạng Sơn"
+    },
+    {
+        "IssuedBy": "180,Sở KH & ĐT Nam Định",
+        "id": "180",
+        "Name": "Sở KH & ĐT Nam Định"
+    },
+    {
+        "IssuedBy": "181,Sở KH & ĐT Nghệ An",
+        "id": "181",
+        "Name": "Sở KH & ĐT Nghệ An"
+    },
+    {
+        "IssuedBy": "182,Sở KH & ĐT Ninh Bình",
+        "id": "182",
+        "Name": "Sở KH & ĐT Ninh Bình"
+    },
+    {
+        "IssuedBy": "183,Sở KH & ĐT Phú Thọ",
+        "id": "183",
+        "Name": "Sở KH & ĐT Phú Thọ"
+    },
+    {
+        "IssuedBy": "251,Sở KH & ĐT Quảng Bình",
+        "id": "251",
+        "Name": "Sở KH & ĐT Quảng Bình"
+    },
+    {
+        "IssuedBy": "184,Sở KH & ĐT Quảng Nam",
+        "id": "184",
+        "Name": "Sở KH & ĐT Quảng Nam"
+    },
+    {
+        "IssuedBy": "185,Sở KH & ĐT Quảng Ngãi",
+        "id": "185",
+        "Name": "Sở KH & ĐT Quảng Ngãi"
+    },
+    {
+        "IssuedBy": "186,Sở KH & ĐT Quảng Ninh",
+        "id": "186",
+        "Name": "Sở KH & ĐT Quảng Ninh"
+    },
+    {
+        "IssuedBy": "249,Sở KH & ĐT Quảng Trị",
+        "id": "249",
+        "Name": "Sở KH & ĐT Quảng Trị"
+    },
+    {
+        "IssuedBy": "250,Sở KH & ĐT Sóc Trăng",
+        "id": "250",
+        "Name": "Sở KH & ĐT Sóc Trăng"
+    },
+    {
+        "IssuedBy": "257,Sở KH & ĐT Sơn La",
+        "id": "257",
+        "Name": "Sở KH & ĐT Sơn La"
+    },
+    {
+        "IssuedBy": "187,Sở KH & ĐT TP Hà Nội",
+        "id": "187",
+        "Name": "Sở KH & ĐT TP Hà Nội"
+    },
+    {
+        "IssuedBy": "188,Sở KH & ĐT TPHCM",
+        "id": "188",
+        "Name": "Sở KH & ĐT TPHCM"
+    },
+    {
+        "IssuedBy": "189,Sở KH & ĐT Thanh Hóa",
+        "id": "189",
+        "Name": "Sở KH & ĐT Thanh Hóa"
+    },
+    {
+        "IssuedBy": "190,Sở KH & ĐT Thái Bình",
+        "id": "190",
+        "Name": "Sở KH & ĐT Thái Bình"
+    },
+    {
+        "IssuedBy": "191,Sở KH & ĐT Thái Nguyên",
+        "id": "191",
+        "Name": "Sở KH & ĐT Thái Nguyên"
+    },
+    {
+        "IssuedBy": "192,Sở KH & ĐT Tiền Giang",
+        "id": "192",
+        "Name": "Sở KH & ĐT Tiền Giang"
+    },
+    {
+        "IssuedBy": "193,Sở KH & ĐT Trà Vinh",
+        "id": "193",
+        "Name": "Sở KH & ĐT Trà Vinh"
+    },
+    {
+        "IssuedBy": "194,Sở KH & ĐT Tuyên Quang",
+        "id": "194",
+        "Name": "Sở KH & ĐT Tuyên Quang"
+    },
+    {
+        "IssuedBy": "195,Sở KH & ĐT Tây Ninh",
+        "id": "195",
+        "Name": "Sở KH & ĐT Tây Ninh"
+    },
+    {
+        "IssuedBy": "196,Sở KH & ĐT Vĩnh Long",
+        "id": "196",
+        "Name": "Sở KH & ĐT Vĩnh Long"
+    },
+    {
+        "IssuedBy": "197,Sở KH & ĐT Vĩnh Phúc",
+        "id": "197",
+        "Name": "Sở KH & ĐT Vĩnh Phúc"
+    },
+    {
+        "IssuedBy": "198,Sở KH & ĐT Yên Bái",
+        "id": "198",
+        "Name": "Sở KH & ĐT Yên Bái"
+    },
+    {
+        "IssuedBy": "255,Sở KH & ĐT Điện Biên",
+        "id": "255",
+        "Name": "Sở KH & ĐT Điện Biên"
+    },
+    {
+        "IssuedBy": "199,Sở KH & ĐT Đà Nẵng",
+        "id": "199",
+        "Name": "Sở KH & ĐT Đà Nẵng"
+    },
+    {
+        "IssuedBy": "200,Sở KH & ĐT Đắk Lắk",
+        "id": "200",
+        "Name": "Sở KH & ĐT Đắk Lắk"
+    },
+    {
+        "IssuedBy": "201,Sở KH & ĐT Đồng Nai",
+        "id": "201",
+        "Name": "Sở KH & ĐT Đồng Nai"
+    },
+    {
+        "IssuedBy": "202,Sở KH & ĐT Đồng Tháp",
+        "id": "202",
+        "Name": "Sở KH & ĐT Đồng Tháp"
+    },
+    {
+        "IssuedBy": "80,Sở KHĐT TPHCM",
+        "id": "80",
+        "Name": "Sở KHĐT TPHCM"
+    },
+    {
+        "IssuedBy": "203,TCT Thuốc Lá Việt Nam",
+        "id": "203",
+        "Name": "TCT Thuốc Lá Việt Nam"
+    },
+    {
+        "IssuedBy": "47,TP Hồ Chí Minh",
+        "id": "47",
+        "Name": "TP Hồ Chí Minh"
+    },
+    {
+        "IssuedBy": "204,TPHCM",
+        "id": "204",
+        "Name": "TPHCM"
+    },
+    {
+        "IssuedBy": "205,TT LKCK VN",
+        "id": "205",
+        "Name": "TT LKCK VN"
+    },
+    {
+        "IssuedBy": "206,TT Nhiệt Đới Việt Nga",
+        "id": "206",
+        "Name": "TT Nhiệt Đới Việt Nga"
+    },
+    {
+        "IssuedBy": "28,Thanh Hóa",
+        "id": "28",
+        "Name": "Thanh Hóa"
+    },
+    {
+        "IssuedBy": "207,Thuận Hải",
+        "id": "207",
+        "Name": "Thuận Hải"
+    },
+    {
+        "IssuedBy": "25,Thái Bình",
+        "id": "25",
+        "Name": "Thái Bình"
+    },
+    {
+        "IssuedBy": "263,Thái Lan",
+        "id": "263",
+        "Name": "Thái Lan"
+    },
+    {
+        "IssuedBy": "12,Thái Nguyên",
+        "id": "12",
+        "Name": "Thái Nguyên"
+    },
+    {
+        "IssuedBy": "34,Thừa Thiên Huế",
+        "id": "34",
+        "Name": "Thừa Thiên Huế"
+    },
+    {
+        "IssuedBy": "55,Tiền Giang",
+        "id": "55",
+        "Name": "Tiền Giang"
+    },
+    {
+        "IssuedBy": "208,Trung Tâm Lưu Ký Chứng Khoán",
+        "id": "208",
+        "Name": "Trung Tâm Lưu Ký Chứng Khoán"
+    },
+    {
+        "IssuedBy": "209,Trung Đoàn 96",
+        "id": "209",
+        "Name": "Trung Đoàn 96"
+    },
+    {
+        "IssuedBy": "63,Trà Vinh",
+        "id": "63",
+        "Name": "Trà Vinh"
+    },
+    {
+        "IssuedBy": "210,Trường Sỹ Quan Pháo Binh",
+        "id": "210",
+        "Name": "Trường Sỹ Quan Pháo Binh"
+    },
+    {
+        "IssuedBy": "17,Tuyên Quang",
+        "id": "17",
+        "Name": "Tuyên Quang"
+    },
+    {
+        "IssuedBy": "53,Tây Ninh",
+        "id": "53",
+        "Name": "Tây Ninh"
+    },
+    {
+        "IssuedBy": "3,Tổng Cục 1 Bộ Công An",
+        "id": "3",
+        "Name": "Tổng Cục 1 Bộ Công An"
+    },
+    {
+        "IssuedBy": "211,Tổng Cục 2",
+        "id": "211",
+        "Name": "Tổng Cục 2"
+    },
+    {
+        "IssuedBy": "2,Tổng Cục CNQP",
+        "id": "2",
+        "Name": "Tổng Cục CNQP"
+    },
+    {
+        "IssuedBy": "212,Tổng Cục Chính Trị",
+        "id": "212",
+        "Name": "Tổng Cục Chính Trị"
+    },
+    {
+        "IssuedBy": "213,Tổng Cục Chính Trị QĐNDVN",
+        "id": "213",
+        "Name": "Tổng Cục Chính Trị QĐNDVN"
+    },
+    {
+        "IssuedBy": "214,Tổng Cục Hậu Cần",
+        "id": "214",
+        "Name": "Tổng Cục Hậu Cần"
+    },
+    {
+        "IssuedBy": "215,Tổng Cục Kỹ Thuật",
+        "id": "215",
+        "Name": "Tổng Cục Kỹ Thuật"
+    },
+    {
+        "IssuedBy": "216,UBCK Nhà Nước",
+        "id": "216",
+        "Name": "UBCK Nhà Nước"
+    },
+    {
+        "IssuedBy": "217,UBKH TPHCM",
+        "id": "217",
+        "Name": "UBKH TPHCM"
+    },
+    {
+        "IssuedBy": "248,UBND Huyện Củ Chi",
+        "id": "248",
+        "Name": "UBND Huyện Củ Chi"
+    },
+    {
+        "IssuedBy": "247,UBND Huyện Hà Trung",
+        "id": "247",
+        "Name": "UBND Huyện Hà Trung"
+    },
+    {
+        "IssuedBy": "218,UBND Huyện Sóc Sơn",
+        "id": "218",
+        "Name": "UBND Huyện Sóc Sơn"
+    },
+    {
+        "IssuedBy": "219,UBND TP Hà Nội",
+        "id": "219",
+        "Name": "UBND TP Hà Nội"
+    },
+    {
+        "IssuedBy": "246,UBND TP Hải Phòng",
+        "id": "246",
+        "Name": "UBND TP Hải Phòng"
+    },
+    {
+        "IssuedBy": "220,UBND Thị Xã Sông Công",
+        "id": "220",
+        "Name": "UBND Thị Xã Sông Công"
+    },
+    {
+        "IssuedBy": "244,UBND Tỉnh Bình Dương",
+        "id": "244",
+        "Name": "UBND Tỉnh Bình Dương"
+    },
+    {
+        "IssuedBy": "241,UBND Tỉnh Cà Mau",
+        "id": "241",
+        "Name": "UBND Tỉnh Cà Mau"
+    },
+    {
+        "IssuedBy": "243,UBND tỉnh Quảng Nam",
+        "id": "243",
+        "Name": "UBND tỉnh Quảng Nam"
+    },
+    {
+        "IssuedBy": "58,Vĩnh Long",
+        "id": "58",
+        "Name": "Vĩnh Long"
+    },
+    {
+        "IssuedBy": "221,Vĩnh Phú",
+        "id": "221",
+        "Name": "Vĩnh Phú"
+    },
+    {
+        "IssuedBy": "15,Vĩnh Phúc",
+        "id": "15",
+        "Name": "Vĩnh Phúc"
+    },
+    {
+        "IssuedBy": "82,Vũng Tàu",
+        "id": "82",
+        "Name": "Vũng Tàu"
+    },
+    {
+        "IssuedBy": "18,Yên Bái",
+        "id": "18",
+        "Name": "Yên Bái"
+    },
+    {
+        "IssuedBy": "223,ĐSQ VN tại Canada",
+        "id": "223",
+        "Name": "ĐSQ VN tại Canada"
+    },
+    {
+        "IssuedBy": "224,ĐSQ VN tại Hoa Kỳ",
+        "id": "224",
+        "Name": "ĐSQ VN tại Hoa Kỳ"
+    },
+    {
+        "IssuedBy": "225,ĐSQ VN tại Pháp",
+        "id": "225",
+        "Name": "ĐSQ VN tại Pháp"
+    },
+    {
+        "IssuedBy": "226,ĐSQ VN tại Đức",
+        "id": "226",
+        "Name": "ĐSQ VN tại Đức"
+    },
+    {
+        "IssuedBy": "227,ĐSQ Việt Nam  tại Berlin",
+        "id": "227",
+        "Name": "ĐSQ Việt Nam  tại Berlin"
+    },
+    {
+        "IssuedBy": "228,ĐSQ Việt Nam tại Anh",
+        "id": "228",
+        "Name": "ĐSQ Việt Nam tại Anh"
+    },
+    {
+        "IssuedBy": "229,ĐSQ Việt Nam tại Ba Lan",
+        "id": "229",
+        "Name": "ĐSQ Việt Nam tại Ba Lan"
+    },
+    {
+        "IssuedBy": "230,ĐSQ Việt Nam tại CH Séc",
+        "id": "230",
+        "Name": "ĐSQ Việt Nam tại CH Séc"
+    },
+    {
+        "IssuedBy": "231,ĐSQ Việt Nam tại CHLB Đức",
+        "id": "231",
+        "Name": "ĐSQ Việt Nam tại CHLB Đức"
+    },
+    {
+        "IssuedBy": "232,ĐSQ Việt Nam tại Singapore",
+        "id": "232",
+        "Name": "ĐSQ Việt Nam tại Singapore"
+    },
+    {
+        "IssuedBy": "233,ĐSQ Việt Nam tại Úc",
+        "id": "233",
+        "Name": "ĐSQ Việt Nam tại Úc"
+    },
+    {
+        "IssuedBy": "24,Điện Biên",
+        "id": "24",
+        "Name": "Điện Biên"
+    },
+    {
+        "IssuedBy": "35,Đà Nẵng",
+        "id": "35",
+        "Name": "Đà Nẵng"
+    },
+    {
+        "IssuedBy": "42,Đắc Lắc",
+        "id": "42",
+        "Name": "Đắc Lắc"
+    },
+    {
+        "IssuedBy": "43,Đắc Nông",
+        "id": "43",
+        "Name": "Đắc Nông"
+    },
+    {
+        "IssuedBy": "234,Đắk Lắk",
+        "id": "234",
+        "Name": "Đắk Lắk"
+    },
+    {
+        "IssuedBy": "235,Đắk Nông",
+        "id": "235",
+        "Name": "Đắk Nông"
+    },
+    {
+        "IssuedBy": "50,Đồng Nai",
+        "id": "50",
+        "Name": "Đồng Nai"
+    },
+    {
+        "IssuedBy": "56,Đồng Tháp",
+        "id": "56",
+        "Name": "Đồng Tháp"
+    }
+]

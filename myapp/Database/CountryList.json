@@ -1,0 +1,1247 @@
+[
+    {
+        "Country": "AX,ÂLAND ISLANDS",
+        "Name": "ÂLAND ISLANDS",
+        "id": "AX"
+    },
+    {
+        "Country": "AL,ALBANIA",
+        "Name": "ALBANIA",
+        "id": "AL"
+    },
+    {
+        "Country": "DZ,ALGERIA",
+        "Name": "ALGERIA",
+        "id": "DZ"
+    },
+    {
+        "Country": "AS,AMERICAN SAMOA",
+        "Name": "AMERICAN SAMOA",
+        "id": "AS"
+    },
+    {
+        "Country": "AD,ANDORRA",
+        "Name": "ANDORRA",
+        "id": "AD"
+    },
+    {
+        "Country": "AO,ANGOLA",
+        "Name": "ANGOLA",
+        "id": "AO"
+    },
+    {
+        "Country": "AI,ANGUILLA",
+        "Name": "ANGUILLA",
+        "id": "AI"
+    },
+    {
+        "Country": "AQ,ANTARCTICA",
+        "Name": "ANTARCTICA",
+        "id": "AQ"
+    },
+    {
+        "Country": "AG,ANTIGUA AND BARBUDA",
+        "Name": "ANTIGUA AND BARBUDA",
+        "id": "AG"
+    },
+    {
+        "Country": "AR,ARGENTINA",
+        "Name": "ARGENTINA",
+        "id": "AR"
+    },
+    {
+        "Country": "AM,ARMENIA",
+        "Name": "ARMENIA",
+        "id": "AM"
+    },
+    {
+        "Country": "AW,ARUBA",
+        "Name": "ARUBA",
+        "id": "AW"
+    },
+    {
+        "Country": "AU,AUSTRALIA",
+        "Name": "AUSTRALIA",
+        "id": "AU"
+    },
+    {
+        "Country": "AT,AUSTRIA",
+        "Name": "AUSTRIA",
+        "id": "AT"
+    },
+    {
+        "Country": "AZ,AZERBAIJAN",
+        "Name": "AZERBAIJAN",
+        "id": "AZ"
+    },
+    {
+        "Country": "BS,BAHAMAS",
+        "Name": "BAHAMAS",
+        "id": "BS"
+    },
+    {
+        "Country": "BH,BAHRAIN",
+        "Name": "BAHRAIN",
+        "id": "BH"
+    },
+    {
+        "Country": "BD,BANGLADESH",
+        "Name": "BANGLADESH",
+        "id": "BD"
+    },
+    {
+        "Country": "BB,BARBADOS",
+        "Name": "BARBADOS",
+        "id": "BB"
+    },
+    {
+        "Country": "BY,BELARUS",
+        "Name": "BELARUS",
+        "id": "BY"
+    },
+    {
+        "Country": "BE,BELGIUM",
+        "Name": "BELGIUM",
+        "id": "BE"
+    },
+    {
+        "Country": "BZ,BELIZE",
+        "Name": "BELIZE",
+        "id": "BZ"
+    },
+    {
+        "Country": "BJ,BENIN",
+        "Name": "BENIN",
+        "id": "BJ"
+    },
+    {
+        "Country": "BM,BERMUDA",
+        "Name": "BERMUDA",
+        "id": "BM"
+    },
+    {
+        "Country": "BT,BHUTAN",
+        "Name": "BHUTAN",
+        "id": "BT"
+    },
+    {
+        "Country": "BO,BOLIVIA",
+        "Name": "BOLIVIA",
+        "id": "BO"
+    },
+    {
+        "Country": "BQ,BONAIRE, SINT EUSTATIUS AND SABA",
+        "Name": "BONAIRE",
+        "id": "BQ"
+    },
+    {
+        "Country": "BA,BOSNIA AND HERZEGOVINA",
+        "Name": "BOSNIA AND HERZEGOVINA",
+        "id": "BA"
+    },
+    {
+        "Country": "BW,BOTSWANA",
+        "Name": "BOTSWANA",
+        "id": "BW"
+    },
+    {
+        "Country": "BV,BOUVET ISLAND",
+        "Name": "BOUVET ISLAND",
+        "id": "BV"
+    },
+    {
+        "Country": "BR,BRAZIL",
+        "Name": "BRAZIL",
+        "id": "BR"
+    },
+    {
+        "Country": "IO,BRITISH INDIAN OCEAN TERRITORY",
+        "Name": "BRITISH INDIAN OCEAN TERRITORY",
+        "id": "IO"
+    },
+    {
+        "Country": "BN,BRUNEI DARUSSALAM",
+        "Name": "BRUNEI DARUSSALAM",
+        "id": "BN"
+    },
+    {
+        "Country": "BG,BULGARIA",
+        "Name": "BULGARIA",
+        "id": "BG"
+    },
+    {
+        "Country": "BF,BURKINA FASO",
+        "Name": "BURKINA FASO",
+        "id": "BF"
+    },
+    {
+        "Country": "BI,BURUNDI",
+        "Name": "BURUNDI",
+        "id": "BI"
+    },
+    {
+        "Country": "CV,CABO VERDE",
+        "Name": "CABO VERDE",
+        "id": "CV"
+    },
+    {
+        "Country": "KH,CAMBODIA",
+        "Name": "CAMBODIA",
+        "id": "KH"
+    },
+    {
+        "Country": "CM,CAMEROON",
+        "Name": "CAMEROON",
+        "id": "CM"
+    },
+    {
+        "Country": "CA,CANADA",
+        "Name": "CANADA",
+        "id": "CA"
+    },
+    {
+        "Country": "KY,CAYMAN ISLANDS",
+        "Name": "CAYMAN ISLANDS",
+        "id": "KY"
+    },
+    {
+        "Country": "CF,CENTRAL AFRICAN REPUBLIC",
+        "Name": "CENTRAL AFRICAN REPUBLIC",
+        "id": "CF"
+    },
+    {
+        "Country": "TD,CHAD",
+        "Name": "CHAD",
+        "id": "TD"
+    },
+    {
+        "Country": "CL,CHILE",
+        "Name": "CHILE",
+        "id": "CL"
+    },
+    {
+        "Country": "CN,CHINA",
+        "Name": "CHINA",
+        "id": "CN"
+    },
+    {
+        "Country": "CX,CHRISTMAS ISLAND",
+        "Name": "CHRISTMAS ISLAND",
+        "id": "CX"
+    },
+    {
+        "Country": "CC,COCOS ISLANDS",
+        "Name": "COCOS ISLANDS",
+        "id": "CC"
+    },
+    {
+        "Country": "CO,COLOMBIA",
+        "Name": "COLOMBIA",
+        "id": "CO"
+    },
+    {
+        "Country": "KM,COMOROS",
+        "Name": "COMOROS",
+        "id": "KM"
+    },
+    {
+        "Country": "CG,CONGO",
+        "Name": "CONGO",
+        "id": "CG"
+    },
+    {
+        "Country": "CD,CONGO",
+        "Name": "CONGO",
+        "id": "CD"
+    },
+    {
+        "Country": "CK,COOK ISLANDS",
+        "Name": "COOK ISLANDS",
+        "id": "CK"
+    },
+    {
+        "Country": "CR,COSTA RICA",
+        "Name": "COSTA RICA",
+        "id": "CR"
+    },
+    {
+        "Country": "CI,CÔTE D'IVOIRE",
+        "Name": "CÔTE D'IVOIRE",
+        "id": "CI"
+    },
+    {
+        "Country": "HR,CROATIA",
+        "Name": "CROATIA",
+        "id": "HR"
+    },
+    {
+        "Country": "CU,CUBA",
+        "Name": "CUBA",
+        "id": "CU"
+    },
+    {
+        "Country": "CW,CURAÇAO",
+        "Name": "CURAÇAO",
+        "id": "CW"
+    },
+    {
+        "Country": "CY,CYPRUS",
+        "Name": "CYPRUS",
+        "id": "CY"
+    },
+    {
+        "Country": "CZ,CZECHIA",
+        "Name": "CZECHIA",
+        "id": "CZ"
+    },
+    {
+        "Country": "DK,DENMARK",
+        "Name": "DENMARK",
+        "id": "DK"
+    },
+    {
+        "Country": "DJ,DJIBOUTI",
+        "Name": "DJIBOUTI",
+        "id": "DJ"
+    },
+    {
+        "Country": "DM,DOMINICA",
+        "Name": "DOMINICA",
+        "id": "DM"
+    },
+    {
+        "Country": "DO,DOMINICAN REPUBLIC",
+        "Name": "DOMINICAN REPUBLIC",
+        "id": "DO"
+    },
+    {
+        "Country": "EC,ECUADOR",
+        "Name": "ECUADOR",
+        "id": "EC"
+    },
+    {
+        "Country": "EG,EGYPT",
+        "Name": "EGYPT",
+        "id": "EG"
+    },
+    {
+        "Country": "SV,EL SALVADOR",
+        "Name": "EL SALVADOR",
+        "id": "SV"
+    },
+    {
+        "Country": "GQ,EQUATORIAL GUINEA",
+        "Name": "EQUATORIAL GUINEA",
+        "id": "GQ"
+    },
+    {
+        "Country": "ER,ERITREA",
+        "Name": "ERITREA",
+        "id": "ER"
+    },
+    {
+        "Country": "EE,ESTONIA",
+        "Name": "ESTONIA",
+        "id": "EE"
+    },
+    {
+        "Country": "ET,ETHIOPIA",
+        "Name": "ETHIOPIA",
+        "id": "ET"
+    },
+    {
+        "Country": "FK,FALKLAND ISLANDS",
+        "Name": "FALKLAND ISLANDS",
+        "id": "FK"
+    },
+    {
+        "Country": "FO,FAROE ISLANDS",
+        "Name": "FAROE ISLANDS",
+        "id": "FO"
+    },
+    {
+        "Country": "FJ,FIJI",
+        "Name": "FIJI",
+        "id": "FJ"
+    },
+    {
+        "Country": "FI,FINLAND",
+        "Name": "FINLAND",
+        "id": "FI"
+    },
+    {
+        "Country": "FR,FRANCE",
+        "Name": "FRANCE",
+        "id": "FR"
+    },
+    {
+        "Country": "GF,FRENCH GUIANA",
+        "Name": "FRENCH GUIANA",
+        "id": "GF"
+    },
+    {
+        "Country": "PF,FRENCH POLYNESIA",
+        "Name": "FRENCH POLYNESIA",
+        "id": "PF"
+    },
+    {
+        "Country": "TF,FRENCH SOUTHERN TERRITORIES",
+        "Name": "FRENCH SOUTHERN TERRITORIES",
+        "id": "TF"
+    },
+    {
+        "Country": "GA,GABON",
+        "Name": "GABON",
+        "id": "GA"
+    },
+    {
+        "Country": "GM,GAMBIA",
+        "Name": "GAMBIA",
+        "id": "GM"
+    },
+    {
+        "Country": "GE,GEORGIA",
+        "Name": "GEORGIA",
+        "id": "GE"
+    },
+    {
+        "Country": "DE,GERMANY",
+        "Name": "GERMANY",
+        "id": "DE"
+    },
+    {
+        "Country": "GH,GHANA",
+        "Name": "GHANA",
+        "id": "GH"
+    },
+    {
+        "Country": "GI,GIBRALTAR",
+        "Name": "GIBRALTAR",
+        "id": "GI"
+    },
+    {
+        "Country": "GR,GREECE",
+        "Name": "GREECE",
+        "id": "GR"
+    },
+    {
+        "Country": "GL,GREENLAND",
+        "Name": "GREENLAND",
+        "id": "GL"
+    },
+    {
+        "Country": "GD,GRENADA",
+        "Name": "GRENADA",
+        "id": "GD"
+    },
+    {
+        "Country": "GP,GUADELOUPE",
+        "Name": "GUADELOUPE",
+        "id": "GP"
+    },
+    {
+        "Country": "GU,GUAM",
+        "Name": "GUAM",
+        "id": "GU"
+    },
+    {
+        "Country": "GT,GUATEMALA",
+        "Name": "GUATEMALA",
+        "id": "GT"
+    },
+    {
+        "Country": "GG,GUERNSEY",
+        "Name": "GUERNSEY",
+        "id": "GG"
+    },
+    {
+        "Country": "GN,GUINEA",
+        "Name": "GUINEA",
+        "id": "GN"
+    },
+    {
+        "Country": "GW,GUINEA-BISSAU",
+        "Name": "GUINEA-BISSAU",
+        "id": "GW"
+    },
+    {
+        "Country": "GY,GUYANA",
+        "Name": "GUYANA",
+        "id": "GY"
+    },
+    {
+        "Country": "HT,HAITI",
+        "Name": "HAITI",
+        "id": "HT"
+    },
+    {
+        "Country": "HM,HEARD ISLAND AND MCDONALD ISLANDS",
+        "Name": "HEARD ISLAND AND MCDONALD ISLANDS",
+        "id": "HM"
+    },
+    {
+        "Country": "VA,HOLY SEE",
+        "Name": "HOLY SEE",
+        "id": "VA"
+    },
+    {
+        "Country": "HN,HONDURAS",
+        "Name": "HONDURAS",
+        "id": "HN"
+    },
+    {
+        "Country": "HK,HONG KONG",
+        "Name": "HONG KONG",
+        "id": "HK"
+    },
+    {
+        "Country": "HU,HUNGARY",
+        "Name": "HUNGARY",
+        "id": "HU"
+    },
+    {
+        "Country": "IS,ICELAND",
+        "Name": "ICELAND",
+        "id": "IS"
+    },
+    {
+        "Country": "IN,INDIA",
+        "Name": "INDIA",
+        "id": "IN"
+    },
+    {
+        "Country": "ID,INDONESIA",
+        "Name": "INDONESIA",
+        "id": "ID"
+    },
+    {
+        "Country": "IR,IRAN",
+        "Name": "IRAN",
+        "id": "IR"
+    },
+    {
+        "Country": "IQ,IRAQ",
+        "Name": "IRAQ",
+        "id": "IQ"
+    },
+    {
+        "Country": "IE,IRELAND",
+        "Name": "IRELAND",
+        "id": "IE"
+    },
+    {
+        "Country": "IM,ISLE OF MAN",
+        "Name": "ISLE OF MAN",
+        "id": "IM"
+    },
+    {
+        "Country": "IL,ISRAEL",
+        "Name": "ISRAEL",
+        "id": "IL"
+    },
+    {
+        "Country": "IT,ITALY",
+        "Name": "ITALY",
+        "id": "IT"
+    },
+    {
+        "Country": "JM,JAMAICA",
+        "Name": "JAMAICA",
+        "id": "JM"
+    },
+    {
+        "Country": "JP,JAPAN",
+        "Name": "JAPAN",
+        "id": "JP"
+    },
+    {
+        "Country": "JE,JERSEY",
+        "Name": "JERSEY",
+        "id": "JE"
+    },
+    {
+        "Country": "JO,JORDAN",
+        "Name": "JORDAN",
+        "id": "JO"
+    },
+    {
+        "Country": "KZ,KAZAKHSTAN",
+        "Name": "KAZAKHSTAN",
+        "id": "KZ"
+    },
+    {
+        "Country": "KE,KENYA",
+        "Name": "KENYA",
+        "id": "KE"
+    },
+    {
+        "Country": "KI,KIRIBATI",
+        "Name": "KIRIBATI",
+        "id": "KI"
+    },
+    {
+        "Country": "KP,KOREA",
+        "Name": "KOREA",
+        "id": "KP"
+    },
+    {
+        "Country": "KR,KOREA",
+        "Name": "KOREA",
+        "id": "KR"
+    },
+    {
+        "Country": "KW,KUWAIT",
+        "Name": "KUWAIT",
+        "id": "KW"
+    },
+    {
+        "Country": "KG,KYRGYZSTAN",
+        "Name": "KYRGYZSTAN",
+        "id": "KG"
+    },
+    {
+        "Country": "LA,LAO",
+        "Name": "LAO",
+        "id": "LA"
+    },
+    {
+        "Country": "LV,LATVIA",
+        "Name": "LATVIA",
+        "id": "LV"
+    },
+    {
+        "Country": "LB,LEBANON",
+        "Name": "LEBANON",
+        "id": "LB"
+    },
+    {
+        "Country": "LS,LESOTHO",
+        "Name": "LESOTHO",
+        "id": "LS"
+    },
+    {
+        "Country": "LR,LIBERIA",
+        "Name": "LIBERIA",
+        "id": "LR"
+    },
+    {
+        "Country": "LY,LIBYA",
+        "Name": "LIBYA",
+        "id": "LY"
+    },
+    {
+        "Country": "LI,LIECHTENSTEIN",
+        "Name": "LIECHTENSTEIN",
+        "id": "LI"
+    },
+    {
+        "Country": "LT,LITHUANIA",
+        "Name": "LITHUANIA",
+        "id": "LT"
+    },
+    {
+        "Country": "LU,LUXEMBOURG",
+        "Name": "LUXEMBOURG",
+        "id": "LU"
+    },
+    {
+        "Country": "MO,MACAO",
+        "Name": "MACAO",
+        "id": "MO"
+    },
+    {
+        "Country": "MK,MACEDONIA",
+        "Name": "MACEDONIA",
+        "id": "MK"
+    },
+    {
+        "Country": "MG,MADAGASCAR",
+        "Name": "MADAGASCAR",
+        "id": "MG"
+    },
+    {
+        "Country": "MW,MALAWI",
+        "Name": "MALAWI",
+        "id": "MW"
+    },
+    {
+        "Country": "MY,MALAYSIA",
+        "Name": "MALAYSIA",
+        "id": "MY"
+    },
+    {
+        "Country": "MV,MALDIVES",
+        "Name": "MALDIVES",
+        "id": "MV"
+    },
+    {
+        "Country": "ML,MALI",
+        "Name": "MALI",
+        "id": "ML"
+    },
+    {
+        "Country": "MT,MALTA",
+        "Name": "MALTA",
+        "id": "MT"
+    },
+    {
+        "Country": "MH,MARSHALL ISLANDS",
+        "Name": "MARSHALL ISLANDS",
+        "id": "MH"
+    },
+    {
+        "Country": "MQ,MARTINIQUE",
+        "Name": "MARTINIQUE",
+        "id": "MQ"
+    },
+    {
+        "Country": "MR,MAURITANIA",
+        "Name": "MAURITANIA",
+        "id": "MR"
+    },
+    {
+        "Country": "MU,MAURITIUS",
+        "Name": "MAURITIUS",
+        "id": "MU"
+    },
+    {
+        "Country": "YT,MAYOTTE",
+        "Name": "MAYOTTE",
+        "id": "YT"
+    },
+    {
+        "Country": "MX,MEXICO",
+        "Name": "MEXICO",
+        "id": "MX"
+    },
+    {
+        "Country": "FM,MICRONESIA",
+        "Name": "MICRONESIA",
+        "id": "FM"
+    },
+    {
+        "Country": "MD,MOLDOVA",
+        "Name": "MOLDOVA",
+        "id": "MD"
+    },
+    {
+        "Country": "MC,MONACO",
+        "Name": "MONACO",
+        "id": "MC"
+    },
+    {
+        "Country": "MN,MONGOLIA",
+        "Name": "MONGOLIA",
+        "id": "MN"
+    },
+    {
+        "Country": "ME,MONTENEGRO",
+        "Name": "MONTENEGRO",
+        "id": "ME"
+    },
+    {
+        "Country": "MS,MONTSERRAT",
+        "Name": "MONTSERRAT",
+        "id": "MS"
+    },
+    {
+        "Country": "MA,MOROCCO",
+        "Name": "MOROCCO",
+        "id": "MA"
+    },
+    {
+        "Country": "MZ,MOZAMBIQUE",
+        "Name": "MOZAMBIQUE",
+        "id": "MZ"
+    },
+    {
+        "Country": "MM,MYANMAR",
+        "Name": "MYANMAR",
+        "id": "MM"
+    },
+    {
+        "Country": "NA,NAMIBIA",
+        "Name": "NAMIBIA",
+        "id": "NA"
+    },
+    {
+        "Country": "NR,NAURU",
+        "Name": "NAURU",
+        "id": "NR"
+    },
+    {
+        "Country": "NP,NEPAL",
+        "Name": "NEPAL",
+        "id": "NP"
+    },
+    {
+        "Country": "NL,NETHERLANDS",
+        "Name": "NETHERLANDS",
+        "id": "NL"
+    },
+    {
+        "Country": "NC,NEW CALEDONIA",
+        "Name": "NEW CALEDONIA",
+        "id": "NC"
+    },
+    {
+        "Country": "NZ,NEW ZEALAND",
+        "Name": "NEW ZEALAND",
+        "id": "NZ"
+    },
+    {
+        "Country": "NI,NICARAGUA",
+        "Name": "NICARAGUA",
+        "id": "NI"
+    },
+    {
+        "Country": "NE,NIGER",
+        "Name": "NIGER",
+        "id": "NE"
+    },
+    {
+        "Country": "NG,NIGERIA",
+        "Name": "NIGERIA",
+        "id": "NG"
+    },
+    {
+        "Country": "NU,NIUE",
+        "Name": "NIUE",
+        "id": "NU"
+    },
+    {
+        "Country": "NF,NORFOLK ISLAND",
+        "Name": "NORFOLK ISLAND",
+        "id": "NF"
+    },
+    {
+        "Country": "MP,NORTHERN MARIANA ISLANDS",
+        "Name": "NORTHERN MARIANA ISLANDS",
+        "id": "MP"
+    },
+    {
+        "Country": "NO,NORWAY",
+        "Name": "NORWAY",
+        "id": "NO"
+    },
+    {
+        "Country": "OM,OMAN",
+        "Name": "OMAN",
+        "id": "OM"
+    },
+    {
+        "Country": "PK,PAKISTAN",
+        "Name": "PAKISTAN",
+        "id": "PK"
+    },
+    {
+        "Country": "PW,PALAU",
+        "Name": "PALAU",
+        "id": "PW"
+    },
+    {
+        "Country": "PS,PALESTINE, STATE OF",
+        "Name": "PALESTINE",
+        "id": "PS"
+    },
+    {
+        "Country": "PA,PANAMA",
+        "Name": "PANAMA",
+        "id": "PA"
+    },
+    {
+        "Country": "PG,PAPUA NEW GUINEA",
+        "Name": "PAPUA NEW GUINEA",
+        "id": "PG"
+    },
+    {
+        "Country": "PY,PARAGUAY",
+        "Name": "PARAGUAY",
+        "id": "PY"
+    },
+    {
+        "Country": "PE,PERU",
+        "Name": "PERU",
+        "id": "PE"
+    },
+    {
+        "Country": "PH,PHILIPPINES",
+        "Name": "PHILIPPINES",
+        "id": "PH"
+    },
+    {
+        "Country": "PN,PITCAIRN",
+        "Name": "PITCAIRN",
+        "id": "PN"
+    },
+    {
+        "Country": "PL,POLAND",
+        "Name": "POLAND",
+        "id": "PL"
+    },
+    {
+        "Country": "PT,PORTUGAL",
+        "Name": "PORTUGAL",
+        "id": "PT"
+    },
+    {
+        "Country": "PR,PUERTO RICO",
+        "Name": "PUERTO RICO",
+        "id": "PR"
+    },
+    {
+        "Country": "QA,QATAR",
+        "Name": "QATAR",
+        "id": "QA"
+    },
+    {
+        "Country": "RE,RÉUNION",
+        "Name": "RÉUNION",
+        "id": "RE"
+    },
+    {
+        "Country": "RO,ROMANIA",
+        "Name": "ROMANIA",
+        "id": "RO"
+    },
+    {
+        "Country": "RU,RUSSIAN FEDERATION",
+        "Name": "RUSSIAN FEDERATION",
+        "id": "RU"
+    },
+    {
+        "Country": "RW,RWANDA",
+        "Name": "RWANDA",
+        "id": "RW"
+    },
+    {
+        "Country": "BL,SAINT BARTHÉLEMY",
+        "Name": "SAINT BARTHÉLEMY",
+        "id": "BL"
+    },
+    {
+        "Country": "SH,SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+        "Name": "SAINT HELENA",
+        "id": "SH"
+    },
+    {
+        "Country": "KN,SAINT KITTS AND NEVIS",
+        "Name": "SAINT KITTS AND NEVIS",
+        "id": "KN"
+    },
+    {
+        "Country": "LC,SAINT LUCIA",
+        "Name": "SAINT LUCIA",
+        "id": "LC"
+    },
+    {
+        "Country": "MF,SAINT MARTIN",
+        "Name": "SAINT MARTIN",
+        "id": "MF"
+    },
+    {
+        "Country": "PM,SAINT PIERRE AND MIQUELON",
+        "Name": "SAINT PIERRE AND MIQUELON",
+        "id": "PM"
+    },
+    {
+        "Country": "VC,SAINT VINCENT AND THE GRENADINES",
+        "Name": "SAINT VINCENT AND THE GRENADINES",
+        "id": "VC"
+    },
+    {
+        "Country": "WS,SAMOA",
+        "Name": "SAMOA",
+        "id": "WS"
+    },
+    {
+        "Country": "SM,SAN MARINO",
+        "Name": "SAN MARINO",
+        "id": "SM"
+    },
+    {
+        "Country": "ST,SAO TOME AND PRINCIPE",
+        "Name": "SAO TOME AND PRINCIPE",
+        "id": "ST"
+    },
+    {
+        "Country": "SA,SAUDI ARABIA",
+        "Name": "SAUDI ARABIA",
+        "id": "SA"
+    },
+    {
+        "Country": "SN,SENEGAL",
+        "Name": "SENEGAL",
+        "id": "SN"
+    },
+    {
+        "Country": "RS,SERBIA",
+        "Name": "SERBIA",
+        "id": "RS"
+    },
+    {
+        "Country": "SC,SEYCHELLES",
+        "Name": "SEYCHELLES",
+        "id": "SC"
+    },
+    {
+        "Country": "SL,SIERRA LEONE",
+        "Name": "SIERRA LEONE",
+        "id": "SL"
+    },
+    {
+        "Country": "SG,SINGAPORE",
+        "Name": "SINGAPORE",
+        "id": "SG"
+    },
+    {
+        "Country": "SX,SINT MAARTEN",
+        "Name": "SINT MAARTEN",
+        "id": "SX"
+    },
+    {
+        "Country": "SK,SLOVAKIA",
+        "Name": "SLOVAKIA",
+        "id": "SK"
+    },
+    {
+        "Country": "SI,SLOVENIA",
+        "Name": "SLOVENIA",
+        "id": "SI"
+    },
+    {
+        "Country": "SB,SOLOMON ISLANDS",
+        "Name": "SOLOMON ISLANDS",
+        "id": "SB"
+    },
+    {
+        "Country": "SO,SOMALIA",
+        "Name": "SOMALIA",
+        "id": "SO"
+    },
+    {
+        "Country": "ZA,SOUTH AFRICA",
+        "Name": "SOUTH AFRICA",
+        "id": "ZA"
+    },
+    {
+        "Country": "GS,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "Name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "id": "GS"
+    },
+    {
+        "Country": "SS,SOUTH SUDAN",
+        "Name": "SOUTH SUDAN",
+        "id": "SS"
+    },
+    {
+        "Country": "ES,SPAIN",
+        "Name": "SPAIN",
+        "id": "ES"
+    },
+    {
+        "Country": "LK,SRI LANKA",
+        "Name": "SRI LANKA",
+        "id": "LK"
+    },
+    {
+        "Country": "SD,SUDAN",
+        "Name": "SUDAN",
+        "id": "SD"
+    },
+    {
+        "Country": "SR,SURINAME",
+        "Name": "SURINAME",
+        "id": "SR"
+    },
+    {
+        "Country": "SJ,SVALBARD AND JAN MAYEN",
+        "Name": "SVALBARD AND JAN MAYEN",
+        "id": "SJ"
+    },
+    {
+        "Country": "SZ,SWAZILAND",
+        "Name": "SWAZILAND",
+        "id": "SZ"
+    },
+    {
+        "Country": "SE,SWEDEN",
+        "Name": "SWEDEN",
+        "id": "SE"
+    },
+    {
+        "Country": "CH,SWITZERLAND",
+        "Name": "SWITZERLAND",
+        "id": "CH"
+    },
+    {
+        "Country": "SY,SYRIAN ARAB REPUBLIC",
+        "Name": "SYRIAN ARAB REPUBLIC",
+        "id": "SY"
+    },
+    {
+        "Country": "TW,TAIWAN",
+        "Name": "TAIWAN",
+        "id": "TW"
+    },
+    {
+        "Country": "TJ,TAJIKISTAN",
+        "Name": "TAJIKISTAN",
+        "id": "TJ"
+    },
+    {
+        "Country": "TZ,TANZANIA, UNITED REPUBLIC OF",
+        "Name": "TANZANIA",
+        "id": "TZ"
+    },
+    {
+        "Country": "TH,THAILAND",
+        "Name": "THAILAND",
+        "id": "TH"
+    },
+    {
+        "Country": "TL,TIMOR-LESTE",
+        "Name": "TIMOR-LESTE",
+        "id": "TL"
+    },
+    {
+        "Country": "TG,TOGO",
+        "Name": "TOGO",
+        "id": "TG"
+    },
+    {
+        "Country": "TK,TOKELAU",
+        "Name": "TOKELAU",
+        "id": "TK"
+    },
+    {
+        "Country": "TO,TONGA",
+        "Name": "TONGA",
+        "id": "TO"
+    },
+    {
+        "Country": "TT,TRINIDAD AND TOBAGO",
+        "Name": "TRINIDAD AND TOBAGO",
+        "id": "TT"
+    },
+    {
+        "Country": "TN,TUNISIA",
+        "Name": "TUNISIA",
+        "id": "TN"
+    },
+    {
+        "Country": "TR,TURKEY",
+        "Name": "TURKEY",
+        "id": "TR"
+    },
+    {
+        "Country": "TM,TURKMENISTAN",
+        "Name": "TURKMENISTAN",
+        "id": "TM"
+    },
+    {
+        "Country": "TC,TURKS AND CAICOS ISLANDS",
+        "Name": "TURKS AND CAICOS ISLANDS",
+        "id": "TC"
+    },
+    {
+        "Country": "TV,TUVALU",
+        "Name": "TUVALU",
+        "id": "TV"
+    },
+    {
+        "Country": "UG,UGANDA",
+        "Name": "UGANDA",
+        "id": "UG"
+    },
+    {
+        "Country": "UA,UKRAINE",
+        "Name": "UKRAINE",
+        "id": "UA"
+    },
+    {
+        "Country": "AE,UNITED ARAB EMIRATES",
+        "Name": "UNITED ARAB EMIRATES",
+        "id": "AE"
+    },
+    {
+        "Country": "GB,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+        "Name": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+        "id": "GB"
+    },
+    {
+        "Country": "US,UNITED STATES OF AMERICA",
+        "Name": "UNITED STATES OF AMERICA",
+        "id": "US"
+    },
+    {
+        "Country": "UM,UNITED STATES MINOR OUTLYING ISLANDS",
+        "Name": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "id": "UM"
+    },
+    {
+        "Country": "UY,URUGUAY    UZ,UZBEKISTAN",
+        "Name": "URUGUAY    UZ",
+        "id": "UY"
+    },
+    {
+        "Country": "VU,VANUATU    VE,VENEZUELA",
+        "Name": "VANUATU    VE",
+        "id": "VU"
+    },
+    {
+        "Country": "VN,VIET NAM",
+        "Name": "VIET NAM",
+        "id": "VN"
+    },
+    {
+        "Country": "VG,VIRGIN ISLANDS",
+        "Name": "VIRGIN ISLANDS",
+        "id": "VG"
+    },
+    {
+        "Country": "WF,WALLIS AND FUTUNA",
+        "Name": "WALLIS AND FUTUNA",
+        "id": "WF"
+    },
+    {
+        "Country": "EH,WESTERN SAHARA",
+        "Name": "WESTERN SAHARA",
+        "id": "EH"
+    },
+    {
+        "Country": "YE,YEMEN",
+        "Name": "YEMEN",
+        "id": "YE"
+    },
+    {
+        "Country": "ZM,ZAMBIA",
+        "Name": "ZAMBIA",
+        "id": "ZM"
+    },
+    {
+        "Country": "ZW,ZIMBABWE",
+        "Name": "ZIMBABWE",
+        "id": "ZW"
+    },
+    {
+        "Country": "AN,NETHERLANDS ANTILLES",
+        "Name": "NETHERLANDS ANTILLES",
+        "id": "AN"
+    },
+    {
+        "Country": "VI,VIRGIN ISLANDS",
+        "Name": "VIRGIN ISLANDS",
+        "id": "VI"
+    },
+    {
+        "Country": "XX,YY",
+        "Name": "YY",
+        "id": "XX"
+    },
+    {
+        "Country": "VF,VIET NAM",
+        "Name": "VIET NAM",
+        "id": "VF"
+    }
+]

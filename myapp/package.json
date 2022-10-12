@@ -19,7 +19,7 @@
     "morgan": "~1.9.1",
     "nodemon": "^1.19.1",
     "pug": "2.0.0-beta11",
-    "read-excel-file": "^4.0.1",
+    "read-excel-file": "^5.5.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "socket.io": "^2.2.0",
